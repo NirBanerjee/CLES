@@ -1,0 +1,3 @@
+This is a prototype for a CLient Lifestyle evaluation System where the images of the food are consumed to evaluate the health index of the food consumed by an individual. It has been developed in Python and deployed in AWS Lambda. FOr identifying the images, we used Google Vision API. It was assumed that the images of food would be made available in an S3 bucket. The calculation from the Lambda functions were made available in a Dashboard developed in Flask and deployed on Amazon Elastic BeanStalk.
+
+A different repository was used for developed which has been made private by the University. This is the backup repository.
